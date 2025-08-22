@@ -14,10 +14,11 @@ Thanks to the [Rain World Modding Wiki](https://rainworldmodding.miraheze.org/),
 A Rain World mod that adds a game controller to Five Pebbles' room. If slugcat grabs it, slugcat can control Five Pebbles' puppet.
 
 The goal is to use the code from Breakout from Five Pebbles Pong:
+
 <img src="https://github.com/woutkolkman/fivepebblespong/blob/master/gifs/fivepebblesbreakout.gif" height="400">
+
 And apply it to generally all directions and not draw game UI.
 
 Originally ratrat44's idea: https://www.youtube.com/watch?v=X-k5ytvMFQ4
 
-Please report any bug, problem or feature request via the [Issues](https://github.com/woutkolkman/fivepebblespong/issues) tab, or on the Steam Workshop page, or message me on the [Rain World Discord](https://discord.gg/rainworld): Maxi Mol#3079
 If you find a bug, please do not report it on [the upstream issues page](https://github.com/woutkolkman/fivepebblespong/issues), as it's probably the horrible code of my fork that's causing your issues, *unless* it's still present on the original.
